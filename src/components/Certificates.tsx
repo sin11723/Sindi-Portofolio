@@ -7,67 +7,67 @@ const Certificates = () => {
       title: "Web Development & UI/UX Design ",
       issuer: "PT. Miitra Celerates",
       date: "2024",
-      image: "src/assets/Web.png"
+      image: "publik/assets/Web.png"
     },
     {
       title: "Completion Certificate",
       issuer: "PT. Miitra Celerates",
       date: "2024",
-      image: "src/assets/ser.png"
+      image: "publik/assets/ser.png"
     },
     {
       title: "React Development",
       issuer: "Meta",
       date: "2023",
-      image: "src/assets/1.png"
+      image: "publik/assets/1.png"
     },
     {
       title: "Web Development & UI/UX Design ",
       issuer: "PT. Miitra Celerates",
       date: "2024",
-      image: "src/assets/2.png"
+      image: "publik/assets/2.png"
     },
     {
       title: "UI/UX Design",
       issuer: "Google",
       date: "2023",
-      image: "src/assets/3.png"
+      image: "publik/assets/3.png"
     },
     {
       title: "React Development",
       issuer: "Meta",
       date: "2023",
-      image: "src/assets/4.png"
+      image: "publik/assets/4.png"
     },
     {
       title: "Web Development & UI/UX Design ",
       issuer: "PT. Miitra Celerates",
       date: "2024",
-      image: "src/assets/5.png"
+      image: "publik/assets/5.png"
     },
     {
       title: "Completion Certificate",
       issuer: "PT. Miitra Celerates",
       date: "2024",
-      image: "src/assets/6.png"
+      image: "publik/assets/6.png"
     },
     {
       title: "React Development",
       issuer: "Meta",
       date: "2023",
-      image: "src/assets/pkl.png"
+      image: "publik/assets/pkl.png"
     },
     {
       title: "Web Development & UI/UX Design ",
       issuer: "PT. Miitra Celerates",
       date: "2024",
-      image: "src/assets/8.png"
+      image: "publik/assets/8.png"
     },
     {
       title: "UI/UX Design",
       issuer: "Google",
       date: "2023",
-      image: "src/assets/9.png"
+      image: "publik/assets/9.png"
     }
   ];
 

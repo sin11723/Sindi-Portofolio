@@ -6,14 +6,14 @@ const Projects = () => {
     {
       title: "Personal Portofolio",
       description: "Portofolio ini dirancang untuk menampilkan keahlian, pengalaman, dan karya saya secara profesional dan terorganisir. Menggunakan teknologi web modern seperti HTML, CSS, JavaScript, dan framework seperti React (opsional), portofolio ini memberikan tampilan yang responsif, interaktif, dan mudah dinavigasi.                                                                         ",
-      image: "src/assets/Sampul.jpg",
+      image: "publik/assets/Sampul.jpg",
       technologies: ["React", "TypeScript", "Tailwind CSS"],
       github: "https://github.com/sin11723/Sindi-Handayani---Portofolio"
     },
     {
       title: "Thrift-Hunt",
       description: "Thrift-Hunt adalah sebuah website e-commerce yang dibuat sebagai bagian dari proyek akhir dalam program Studi Independen di PT. Mitra Celerates. Proyek ini merupakan salah satu syarat kelulusan bagi setiap anggota kelompok. Website ini dikembangkan secara kolaboratif oleh Tim Ascending, dengan tujuan menciptakan platform yang inovatif untuk memenuhi kebutuhan belanja online.",
-      image: "src/assets/Ascending.jpg",
+      image: "publik/assets/Ascending.jpg",
       technologies: ["React", "TypeScript", "Tailwind CSS", "UI/UX Design"],
       github: "https://github.com/fathur1902/ThriftHunt-React",
       live: "http://ascending.celerateskampusmerdeka.site/",
@@ -22,7 +22,7 @@ const Projects = () => {
     {
         title: "Chillax",
         description: "Chillax adalah sebuah desain website yang dirancang khusus untuk mahasiswa, dengan tujuan membantu mengatasi tingkat stres yang sering dialami oleh mereka. Website ini menyediakan fitur bagi mahasiswa untuk menulis diary sebagai sarana ekspresi dan refleksi diri. Desain ini dibuat dengan penuh perhatian terhadap kebutuhan emosional mahasiswa dan dikembangkan melalui kolaborasi oleh Tim Ascending.",
-        image: "src/assets/Chillax.jpg",
+        image: "publik/assets/Chillax.jpg",
         technologies: ["Figma", "UI/UX Design"],
         figma: "https://www.figma.com/design/Mr4QElD2cyyN7ffbpfT0AF/Scholarly-Education-Landing-Page-Template-(Community)?node-id=373-8267&t=n4TOGKLJv1jirZTg-1"
     }

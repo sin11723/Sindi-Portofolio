@@ -30,7 +30,7 @@ const Hero = () => {
            {/* Main image container */}
            <div className="relative w-80 h-80 rounded-2xl p-2 bg-gradient-to-r from-blue-500 to-purple-500">
              <img 
-               src="src/assets/Sindi.jpg"
+               src="publik/assets/Sindi.jpg"
                alt="Developer workspace"
                className="w-full h-full rounded-xl object-cover border-4 border-white shadow-xl"
              />
